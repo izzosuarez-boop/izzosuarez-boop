@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Ivan — Python backend & automation developer
 
 I build and run production systems: FastAPI backends, payment and escrow flows,
