@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**izzosuarez-boop/izzosuarez-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ivan — Python backend & automation developer
 
-Here are some ideas to get you started:
+I build and run production systems: FastAPI backends, payment and escrow flows,
+Docker infrastructure and LLM agents. I measure before I conclude, so every
+repo below comes with numbers or a demo you can run offline.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The code comes from a live two-sided marketplace I built and operate, with
+domain details, keys and names removed.
+
+## Selected work
+
+| Project | What it shows |
+| --- | --- |
+| [llm-support-agent](https://github.com/izzosuarez-boop/llm-support-agent) | LLM support agent where the security boundary lives in the tools, not the prompt. Runs offline with `python demo.py`. |
+| [marketplace-infra](https://github.com/izzosuarez-boop/marketplace-infra) | Production Docker + Caddy + Redis + Grafana setup: automatic HTTPS, hardened containers, isolated scheduler. |
+| [escrow-smart-contract](https://github.com/izzosuarez-boop/escrow-smart-contract) | Non-custodial escrow in Solidity, with per-order gas cost measured on two chains. |
+| [protocol-lab](https://github.com/izzosuarez-boop/protocol-lab) | TCP protocol test bench: stream framer, MITM proxy, mocks, replay and fuzzing, 12 tests. |
+
+## Stack
+
+Python · FastAPI · asyncio · Docker Compose · Caddy · Redis · Grafana · Solidity (EVM/TRON) · LLM function calling
+
+## Work with me
+
+Open to freelance work: backend APIs, automation and scraping, LLM integrations.
+
+Available for freelance work.
