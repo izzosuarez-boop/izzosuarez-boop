@@ -1,4 +1,4 @@
-# Iván · AI engineer & automation developer
+# Iván · AI Engineer and custom automation developer
 
 **Portfolio: [ivanboot.dev](https://ivanboot.dev)**
 
