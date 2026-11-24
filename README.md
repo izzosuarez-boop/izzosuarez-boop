@@ -1,27 +1,24 @@
-# Ivan — Python backend & automation developer
+# Iván · AI engineer & automation developer
 
-I build and run production systems: FastAPI backends, payment and escrow flows,
-Docker infrastructure and LLM agents. I measure before I conclude, so every
-repo below comes with numbers or a demo you can run offline.
+**Portfolio: [ivanboot.dev](https://ivanboot.dev)**
 
-The code comes from a live two-sided marketplace I built and operate, with
-domain details, keys and names removed.
+I build AI agents, automations and the software around them — from production LLM systems and scraping pipelines to
+Shopify stores and 24/7 Linux workers. I measure before I conclude and write down why each decision was made, so
+clients know what they are paying for.
 
-## Selected work
+## Projects
 
-| Project | What it shows |
+| Project | What it is |
 | --- | --- |
-| [llm-support-agent](https://github.com/izzosuarez-boop/llm-support-agent) | LLM support agent where the security boundary lives in the tools, not the prompt. Runs offline with `python demo.py`. |
-| [marketplace-infra](https://github.com/izzosuarez-boop/marketplace-infra) | Production Docker + Caddy + Redis + Grafana setup: automatic HTTPS, hardened containers, isolated scheduler. |
-| [escrow-smart-contract](https://github.com/izzosuarez-boop/escrow-smart-contract) | Non-custodial escrow in Solidity, with per-order gas cost measured on two chains. |
-| [protocol-lab](https://github.com/izzosuarez-boop/protocol-lab) | TCP protocol test bench: stream framer, MITM proxy, mocks, replay and fuzzing, 12 tests. |
+| [ivanboot.dev](https://github.com/izzosuarez-boop/ivanboot.dev) | My portfolio site, with the Ardea Skin store and the API in one codebase |
+| [ardea-skin](https://github.com/izzosuarez-boop/ardea-skin) | A Shopify store with an identity of its own, with an AI agent on the store and another for the owner in Telegram |
+| [ai-media](https://github.com/izzosuarez-boop/ai-media) | AI & Social Media: from idea to product. The scripts behind every video and image of the portfolio and the store |
+| [web-scraping-automation](https://github.com/izzosuarez-boop/web-scraping-automation) | End-to-end web scraping: from data to decisions. A real client case |
+| [llm-support-agent](https://github.com/izzosuarez-boop/llm-support-agent) | KamasMarket's AI agent: it tracks orders and payments and explains the site |
+| [marketplace-infra](https://github.com/izzosuarez-boop/marketplace-infra) | KamasMarket's infrastructure: Caddy, Redis and Docker behind Cloudflare |
+| [escrow-smart-contract](https://github.com/izzosuarez-boop/escrow-smart-contract) | KamasMarket's escrow on BNB Chain: it pays the seller or refunds the buyer, with no third option |
 
-## Stack
+## Skills
 
-Python · FastAPI · asyncio · Docker Compose · Caddy · Redis · Grafana · Solidity (EVM/TRON) · LLM function calling
-
-## Work with me
-
-Open to freelance work: backend APIs, automation and scraping, LLM integrations.
-
-Available for freelance work.
+Claude / LLM APIs · AI agents & tool use · Python · TypeScript · Next.js · FastAPI · Shopify · Web scraping ·
+Playwright · Supabase / Postgres · Docker · Linux
