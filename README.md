@@ -1,7 +1,5 @@
 # Iván · AI Engineer and custom automation developer
 
-**Portfolio: [ivanboot.dev](https://ivanboot.dev)**
-
 I build AI agents, automations and the software around them — from production LLM systems and scraping pipelines to
 Shopify stores and 24/7 Linux workers. I measure before I conclude and write down why each decision was made, so
 clients know what they are paying for.
@@ -10,7 +8,7 @@ clients know what they are paying for.
 
 | Project | What it is |
 | --- | --- |
-| [ivanboot.dev](https://github.com/izzosuarez-boop/ivanboot.dev) | My portfolio site, with the Ardea Skin store and the API in one codebase |
+| [portfolio-site](https://github.com/izzosuarez-boop/portfolio-site) | My portfolio site, with the Ardea Skin store and the API in one codebase |
 | [ardea-skin](https://github.com/izzosuarez-boop/ardea-skin) | A Shopify store with an identity of its own, with an AI agent on the store and another for the owner in Telegram |
 | [ai-media](https://github.com/izzosuarez-boop/ai-media) | AI & Social Media: from idea to product. The scripts behind every video and image of the portfolio and the store |
 | [web-scraping-automation](https://github.com/izzosuarez-boop/web-scraping-automation) | End-to-end web scraping: from data to decisions. A real client case |
